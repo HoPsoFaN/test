@@ -1,5 +1,5 @@
-const  fs = require('fs')
-const  path = require('path')
+const fs = require('fs')
+const path = require('path')
 
 /*
 fs.rename('hello.txt', 'async operation.txt', function (error) {
