@@ -1,4 +1,4 @@
-function greet (name){
+async function greet (name){
     let date = new Date()
     if (date.getHours() < 12){
         return('Доброе утро, ' + name)
